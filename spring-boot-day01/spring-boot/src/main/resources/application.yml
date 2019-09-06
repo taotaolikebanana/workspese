@@ -1,0 +1,20 @@
+#DB Configuration:
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/spring-boot?useUnicode=true&charaterEncoding=UTF-8
+    username: root
+    password: root
+#JPA Configuration:
+  jpa:
+    database: mysql
+    show-sql: true
+    generate-ddl: true
+page:
+  rows: 66
+person:
+  name: 龙在天
+  age: 9999999999
+  sex: 神
+  address: 皇极凌霄殿
+  myAddress: ["凌霄宝殿","弥罗宫","善法堂"]

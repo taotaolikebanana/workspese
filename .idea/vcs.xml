@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/java9502" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-shop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springCloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springCloudDay02" vcs="Git" />
+  </component>
+</project>
